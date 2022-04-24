@@ -1,4 +1,4 @@
-package com.dorritos.newsapi.api
+package com.dorritos.moviesapi.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -16,7 +16,7 @@ class RetrofitService() {
     }
 
     private var retrofit: Retrofit
-    private val BASE_URL: String = "https://newsapi.org"
+    private val BASE_URL: String = "https://api.nytimes.com"
 
     fun getApi(): ApiService {
         return retrofit.create(ApiService::class.java)

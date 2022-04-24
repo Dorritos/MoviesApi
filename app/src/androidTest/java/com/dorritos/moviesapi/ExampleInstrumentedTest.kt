@@ -1,4 +1,4 @@
-package com.dorritos.newsapi
+package com.dorritos.moviesapi
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

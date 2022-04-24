@@ -5,6 +5,19 @@
       <map>
         <entry key="..\:/Users/Aidar/NewsApi/app/src/main/res/layout/article_item.xml" value="0.33" />
         <entry key="..\:/Users/Aidar/NewsApi/app/src/main/res/layout/main_fragment.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable-v23/bg_gradient.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable/bg_gradient.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable/logo.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/drawable/splash_background.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/article_item.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/character_item.xml" value="0.33" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/main_activity.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/main_fragment.xml" value="0.317481884057971" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/movie_item.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/RickAndMortyApi/app/src/main/res/layout/splash_screen.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>

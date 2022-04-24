@@ -1,8 +1,8 @@
-package com.dorritos.newsapi
+package com.dorritos.moviesapi
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.dorritos.newsapi.ui.main.MainFragment
+import com.dorritos.moviesapi.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

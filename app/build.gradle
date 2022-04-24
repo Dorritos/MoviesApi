@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.dorritos.newsapi"
+        applicationId "com.dorritos.moviesapi"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -19,7 +19,7 @@ android {
     buildTypes {
         def API_KEY = "API_KEY"
         debug {
-            buildConfigField "String", "API_KEY", "\"bc1fc8761bc040c391f60012aaf380b3\""
+            buildConfigField "String", "API_KEY", "\"eIarQMcIxwFPcbr4q6SsXuzjyZVrOZAw\""
         }
         release {
             minifyEnabled false

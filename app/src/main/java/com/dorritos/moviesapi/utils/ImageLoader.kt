@@ -1,4 +1,4 @@
-package com.dorritos.newsapi.utils
+package com.dorritos.moviesapi.utils
 
 import android.widget.ImageView
 import com.bumptech.glide.Glide

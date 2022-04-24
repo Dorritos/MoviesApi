@@ -1,4 +1,4 @@
-package com.dorritos.newsapi
+package com.dorritos.moviesapi
 
 import org.junit.Test
 
